@@ -15,24 +15,19 @@ import ZWJS from "@/components/ZWJS.vue";
   <div>
     <div class="kuang">
       <div class="h">
-        <h1>个人简历</h1>
+        <h2>个人简历</h2>
       </div>
       <div class="d">
 
         <div class="ii">
           <img class="i"
                src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%9B%BE%E7%89%871.jpg"
-               height="200"
+               height="180"
           >
           </img>
-<!--          <img class="i"-->
-<!--               src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/799e0d7779f6ea6c3a89885ff60c55af.gif"-->
-<!--               height="200"-->
-<!--          >-->
-<!--          </img>-->
           <img class="i"
                src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240301222741.jpg"
-               height="200"
+               height="180"
           >
           </img>
         </div>
@@ -96,9 +91,12 @@ h3{
   background-color: #6b7379
 }
 .h{
-  height: 70px;
-  background-color: #adb0b2;
+  height: 30px;
   color: #727272;
+
+  background: url("https://i.pinimg.com/originals/c3/9f/19/c39f19dd6e6a95da3cc04de1260270b6.gif")no-repeat center center fixed;
+  background-size: 100% 100%;
+  background-size:cover;
 }
 .kuang{
   height: auto;
@@ -124,9 +122,9 @@ h3{
   height: 100%;
   /*background-color: #5d6469*/
 }
-h1{
+h2{
   text-align:center;
-  line-height:70px;
-  color: #5c6369;
+  line-height:30px;
+  color: rgba(24, 18, 18, 0.39);
 }
 </style>
