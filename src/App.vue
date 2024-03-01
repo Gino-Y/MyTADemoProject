@@ -22,7 +22,17 @@ import ZWJS from "@/components/ZWJS.vue";
         <div class="ii">
           <img class="i"
                src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%9B%BE%E7%89%871.jpg"
-               height="128"
+               height="200"
+          >
+          </img>
+<!--          <img class="i"-->
+<!--               src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/799e0d7779f6ea6c3a89885ff60c55af.gif"-->
+<!--               height="200"-->
+<!--          >-->
+<!--          </img>-->
+          <img class="i"
+               src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240301222741.jpg"
+               height="200"
           >
           </img>
         </div>
@@ -95,13 +105,18 @@ h3{
   /*background-color: #000000*/
 }
 .i{
-  margin-top: 10px;
-  margin-left: 20px;
+  /*margin-top: 5px;*/
 
 }
 .ii{
-  /*background-color: red;*/
-  width: 200px;
+  /*background-color: white;*/
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  background: url("https://mydemoshow.oss-cn-shanghai.aliyuncs.com/fd297dd743eeb5c9e61a6948bd966774%5B1%5D.gif")no-repeat center center fixed;
+  background-size: 100% 100%;
+  background-size:cover;
 }
 
 .d{
