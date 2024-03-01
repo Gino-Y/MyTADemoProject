@@ -21,7 +21,7 @@ import ZWJS from "@/components/ZWJS.vue";
 
         <div class="ii">
           <img class="i"
-               src="./assets/图片1.jpg"
+               src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%9B%BE%E7%89%871.jpg"
                height="128"
           >
           </img>

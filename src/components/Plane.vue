@@ -4,7 +4,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/故障效果-1.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%95%85%E9%9A%9C%E6%95%88%E6%9E%9C-1.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -16,7 +16,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/故障效果-2.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%95%85%E9%9A%9C%E6%95%88%E6%9E%9C-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -28,7 +28,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/角色卡通渲染.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E8%A7%92%E8%89%B2%E5%8D%A1%E9%80%9A%E6%B8%B2%E6%9F%93.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -37,13 +37,13 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/星座模拟.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%98%9F%E5%BA%A7%E6%A8%A1%E6%8B%9F.gif"
           alt="展示的图片"
           width=100%
           height=100%
       ><br>星座模拟<br><img
           loading="lazy"
-          src="../assets/能量网格流光.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E8%83%BD%E9%87%8F%E7%BD%91%E6%A0%BC%E6%B5%81%E5%85%89.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -55,7 +55,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/低成本角色材质.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%A7%92%E8%89%B2%E6%9D%90%E8%B4%A8.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -67,7 +67,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/溶解效果-4.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%BA%B6%E8%A7%A3%E6%95%88%E6%9E%9C-4.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -76,28 +76,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/溶解效果-2.gif"
-          alt="展示的图片"
-          width=100%
-          height=100%
-      >溶解效果</div>
-    </div>
-  </div>
-
-  <div class="test3">
-    <div class="in">
-      <div class="in">  <img
-          loading="lazy"
-          src="../assets/溶解效果-1.gif"
-          alt="展示的图片"
-          width=100%
-          height=100%
-      >溶解效果</div>
-    </div>
-    <div class="in">
-      <div class="in">  <img
-          loading="lazy"
-          src="../assets/溶解效果-3.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%BA%B6%E8%A7%A3%E6%95%88%E6%9E%9C-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -109,7 +88,28 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/2D项目3D光影效果制作-2.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%BA%B6%E8%A7%A3%E6%95%88%E6%9E%9C-1.gif"
+          alt="展示的图片"
+          width=100%
+          height=100%
+      >溶解效果</div>
+    </div>
+    <div class="in">
+      <div class="in">  <img
+          loading="lazy"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%BA%B6%E8%A7%A3%E6%95%88%E6%9E%9C-3.gif"
+          alt="展示的图片"
+          width=100%
+          height=100%
+      >溶解效果</div>
+    </div>
+  </div>
+
+  <div class="test3">
+    <div class="in">
+      <div class="in">  <img
+          loading="lazy"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/2D%E9%A1%B9%E7%9B%AE3D%E5%85%89%E5%BD%B1%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -121,7 +121,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/2D项目3D光影效果制作-1.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/2D%E9%A1%B9%E7%9B%AE3D%E5%85%89%E5%BD%B1%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C-1.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -130,7 +130,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/2D项目3D光影效果制作-3.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/2D%E9%A1%B9%E7%9B%AE3D%E5%85%89%E5%BD%B1%E6%95%88%E6%9E%9C%E5%88%B6%E4%BD%9C-3.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -142,7 +142,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/视差.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E8%A7%86%E5%B7%AE.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -151,7 +151,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/全息虚拟沙盘.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%85%A8%E6%81%AF%E8%99%9A%E6%8B%9F%E6%B2%99%E7%9B%98.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -163,7 +163,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/PBR.jpg"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/PBR.jpg"
           alt="展示的图片"
           width=100%
           height=100%
@@ -172,14 +172,14 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/武器变形.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%AD%A6%E5%99%A8%E5%8F%98%E5%BD%A2.gif"
           alt="展示的图片"
           width=100%
           height=100%
       >武器变形
         <img
             loading="lazy"
-            src="../assets/道具3D淡入淡出效果.gif"
+            src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E9%81%93%E5%85%B73D%E6%B7%A1%E5%85%A5%E6%B7%A1%E5%87%BA%E6%95%88%E6%9E%9C.gif"
             alt="展示的图片"
             width=100%
             height=100%
@@ -192,7 +192,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/FlowMap-1.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/FlowMap-1.gif"
           alt="展示的图片"
           width=100%
           height=150px
@@ -201,7 +201,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/FlowMap-2.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/FlowMap-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -213,7 +213,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/动态灯光雾-1.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%8A%A8%E6%80%81%E7%81%AF%E5%85%89%E9%9B%BE-1.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -222,7 +222,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/动态灯光雾-2.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%8A%A8%E6%80%81%E7%81%AF%E5%85%89%E9%9B%BE-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -234,7 +234,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/交互液体.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E4%BA%A4%E4%BA%92%E6%B6%B2%E4%BD%93.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -243,7 +243,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/2D液体实现-1.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/2D%E6%B6%B2%E4%BD%93%E5%AE%9E%E7%8E%B0-1.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -252,7 +252,7 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/2D液体实现-2.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/2D%E6%B6%B2%E4%BD%93%E5%AE%9E%E7%8E%B0-2.gif"
           alt="展示的图片"
           width=100%
           height=100%
@@ -264,20 +264,20 @@
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/水体.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E6%B0%B4%E4%BD%93.gif"
           alt="展示的图片"
           width=100%
           height=100%
-      >动态灯光雾</div>
+      >水体</div>
     </div>
     <div class="in">
       <div class="in">  <img
           loading="lazy"
-          src="../assets/冰雪材质.gif"
+          src="https://mydemoshow.oss-cn-shanghai.aliyuncs.com/%E5%86%B0%E9%9B%AA%E6%9D%90%E8%B4%A8.gif"
           alt="展示的图片"
           width=100%
           height=100%
-      >动态灯光雾</div>
+      >冰雪效果</div>
     </div>
   </div>
 
