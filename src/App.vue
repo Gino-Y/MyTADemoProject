@@ -94,7 +94,7 @@ h3{
   height: 30px;
   color: #727272;
 
-  background: url("https://i.pinimg.com/originals/c3/9f/19/c39f19dd6e6a95da3cc04de1260270b6.gif")no-repeat center center fixed;
+  background: url("https://mydemoshow.oss-cn-shanghai.aliyuncs.com/c39f19dd6e6a95da3cc04de1260270b6%5B1%5D.gif")no-repeat center center fixed;
   background-size: 100% 100%;
   background-size:cover;
 }
