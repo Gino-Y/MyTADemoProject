@@ -55,9 +55,10 @@ const tableData = [
 </script>
 
 <style scoped>
-.table {
+.el-table {
   /*width: 100%;*/
   /*background-color: #ff0000;*/
+  margin-top: -15px;
 }
 .card-header {
   padding: 0 20px;
