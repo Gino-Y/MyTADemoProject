@@ -20,7 +20,7 @@
       </div>
     </template>
     <el-table :data="tableData">
-      <el-table-column prop="phone" label="手机/微信" width="110"/>
+      <el-table-column prop="phone" label="手机/微信" width="120"/>
       <el-table-column prop="email" label="邮箱" width="170"/>
     </el-table>
   </el-card>
@@ -58,5 +58,13 @@ const tableData = [
 .table {
   /*width: 100%;*/
   /*background-color: #ff0000;*/
+}
+.card-header {
+  padding: 0 20px;
+  font-size: 18px;
+  font-weight: 1000;
+  color: #abaeb2;
+  line-height: 5px;
+  /*background-color: #0066ff;*/
 }
 </style>
