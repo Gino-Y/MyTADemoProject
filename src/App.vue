@@ -36,12 +36,16 @@ import ZWJS from "@/components/ZWJS.vue";
 
         <ZWJS/>
 
+        <el-divider border-style="dashed" />
+
         <div class="doc">
+          <div class="emp"></div>
           <h3>工作经验</h3>
           <Doc/>
         </div>
 
         <div class="doc2">
+          <div class="emp"></div>
           <h3>教育背景</h3>
           <Doc2/>
         </div>
@@ -60,6 +64,9 @@ import ZWJS from "@/components/ZWJS.vue";
 </template>
 
 <style scoped>
+.emp{
+  height: 5px;
+}
 *{
   user-select: none;
   -webkit-user-select: none;
