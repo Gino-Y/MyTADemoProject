@@ -1,6 +1,6 @@
 <template>
   <el-timeline>
-    <el-timeline-item timestamp="2007/09—2010/09" placement="top">
+    <el-timeline-item timestamp="2007/09—2010/09" placement="top" color='#FF5809'>
       <el-card style="width: 96%">
         <h3>吉林艺术学院</h3>
         <p>专业：影视动画</p>

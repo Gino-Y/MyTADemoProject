@@ -1,6 +1,6 @@
 <template>
   <el-timeline>
-    <el-timeline-item timestamp="2018/12—2023/10" placement="top">
+    <el-timeline-item timestamp="2018/12—2023/10" placement="top" color='#EA0000'>
       <el-card style="width: 96%">
         <h3>杭州聆曦网络科技有限公司（原 杭州藤木网络科技</h3>
         <p>职位：技术美术</p>
@@ -8,7 +8,7 @@
         <p>项目：《阿拉德之怒》、类DNF2.0项目、A8项目等 </p>
       </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2018/05—2018/11 " placement="top">
+    <el-timeline-item timestamp="2018/05—2018/11 " placement="top" color='#921AFF'>
       <el-card style="width: 96%">
         <h3>上海指舞网络科技</h3>
         <p>职位：技术美术 </p>
@@ -16,7 +16,7 @@
         <p>项目：《类COC Demo》</p>
       </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2017/12—2018/05" placement="top">
+    <el-timeline-item timestamp="2017/12—2018/05" placement="top" color='#2828FF'>
       <el-card style="width: 96%">
         <h3>维塔士电脑软件有限公司</h3>
         <p>职位：技术美术 </p>
@@ -24,7 +24,7 @@
         <p>项目：《刺客信条》</p>
       </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2014/09—2017/12	" placement="top">
+    <el-timeline-item timestamp="2014/09—2017/12	" placement="top" color='#00E3E3'>
       <el-card style="width: 96%">
         <h3>乐卓网络科技（上海）股份有限公司</h3>
         <p>职位：技术美术 </p>
@@ -32,7 +32,7 @@
         <p>项目：《我去闯江湖》《勇者打不死》《药不能停》</p>
       </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2012/11—2014/08" placement="top">
+    <el-timeline-item timestamp="2012/11—2014/08" placement="top" color='#00EC00'>
       <el-card style="width: 96%">
         <h3>上海骏梦科技有限公司</h3>
         <p>职位：模型师/地编 </p>
@@ -40,7 +40,7 @@
         <p>项目：《小小忍者》《新仙剑online》</p>
       </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2010/06—2012/10" placement="top">
+    <el-timeline-item timestamp="2010/06—2012/10" placement="top" color='#FFD306'>
       <el-card style="width: 96%">
         <h3>上海明器多媒体科技有限公司</h3>
         <p>职位：模型贴图灯光渲染 </p>
@@ -50,3 +50,19 @@
     </el-timeline-item>
   </el-timeline>
 </template>
+
+<!--<style scoped>-->
+<!--  .text {-->
+<!--    font-size: 14px;-->
+<!--  }-->
+
+<!--  .item {-->
+<!--    padding: 18px 0;-->
+<!--  }-->
+
+<!--  .box-card {-->
+<!--    width: 100%;-->
+<!--    height: 100%;-->
+<!--    background-color: #008dff;-->
+<!--  }-->
+<!--</style>-->
