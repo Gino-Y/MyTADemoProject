@@ -5,7 +5,7 @@
 <!--        <h3>杭州聆曦网络科技有限公司（原 杭州藤木网络科技</h3>-->
         <template #header>
           <div class="card-header">
-            <span>杭州聆曦网络科技有限公司（原 杭州藤木网络科技）</span>
+            <span>杭州聆曦网络科技有限公司（腾讯杭州工作室，原 杭州藤木网络科技）</span>
           </div>
         </template>
         <p>职位：技术美术</p>
@@ -18,7 +18,7 @@
 <!--        <h3>上海指舞网络科技</h3>-->
         <template #header>
           <div class="card-header">
-            <span>上海指舞网络科技</span>
+            <span>上海指舞网络科技有限公司</span>
           </div>
         </template>
         <p>职位：技术美术 </p>
@@ -56,7 +56,6 @@
     </el-timeline-item>
     <el-timeline-item timestamp="2012/11 — 2014/08" placement="top" color='#00EC00'>
       <el-card style="width: 96%">
-        <h3>上海骏梦科技有限公司</h3>
         <template #header>
           <div class="card-header">
             <span>上海骏梦科技有限公司</span>
@@ -82,21 +81,12 @@
         <p>项目：《魔海寻踪》</p>
       </el-card>
     </el-timeline-item>
+    <el-timeline-item placement="top" color='#5c6369'>
+    </el-timeline-item>
   </el-timeline>
 </template>
-
-<!--<style scoped>-->
-<!--  .text {-->
-<!--    font-size: 14px;-->
-<!--  }-->
-
-<!--  .item {-->
-<!--    padding: 18px 0;-->
-<!--  }-->
-
-<!--  .box-card {-->
-<!--    width: 100%;-->
-<!--    height: 100%;-->
-<!--    background-color: #008dff;-->
-<!--  }-->
-<!--</style>-->
+<style>
+p,span{
+  color: #6a7279;
+}
+</style>

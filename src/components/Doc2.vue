@@ -14,5 +14,8 @@
       </el-card>
     </el-timeline-item>
 
+    <el-timeline-item placement="top" color='#6a7279'>
+    </el-timeline-item>
+
   </el-timeline>
 </template>
